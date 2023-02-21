@@ -325,4 +325,4 @@ client.on('interactionCreate', async interaction => {
      interaction.reply("Successfully set the volume of the music to **"+volume+"**")
 }
 })
-client.login("OTE3ODk5NzMzNDQ2NTU3Njk3.G6d2AI.6wFm6apn-ryZ49s5uQ8e4rIhwWfF7h3E2zvegQ");
+client.login("");
