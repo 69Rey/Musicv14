@@ -36,7 +36,6 @@ client.distube = new DisTube(client, {
     new YtDlpPlugin()
   ]
 })
-let token = config.token
 
 client.commands = new Collection()
 
